@@ -11,7 +11,9 @@ My passions lie in human-computer interaction, critical disability studies and d
 >
 > --- Liz Jackson 
 
-### You can read more about my on my "About" page or contact me below!
+Just put more text here so it looks nice
+
+### You can read more about me on my "About" page or contact me below!
 
 - Bulleted
 - List

@@ -1,6 +1,9 @@
+
 ---
 layout: article
-title: About Me
+title: About
+sidebar:
+  nav: layouts
 ---
 
 <p align="left">
