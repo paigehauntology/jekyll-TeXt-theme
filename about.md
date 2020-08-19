@@ -1,8 +1,9 @@
 ---
 layout: article
-title: About
+title: About Me
 ---
 
+### Thanks for wanting to know more about me
 
 <p align="center">
 	
