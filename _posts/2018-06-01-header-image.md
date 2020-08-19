@@ -1,10 +1,12 @@
 ---
-title: Welcome to my new website!
-tags: 
-article_header: 
+title: Post with Header Image
+tags: TeXt
+article_header:
   type: cover
+  image:
+    src: /screenshot.jpg
 ---
 
-
+Welcome to my new website!
 
 <!--more-->
