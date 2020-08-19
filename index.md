@@ -15,12 +15,5 @@ Just put more text here so it looks nice
 
 ### You can read more about me on my "About" page or contact me below!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Linkedin
+- Github

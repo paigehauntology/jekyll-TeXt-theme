@@ -5,9 +5,9 @@ title: About
 
 ## Welcome to my about me!
 
-<p align="left">
+<p align="center">
 	
-	<img src="IMG_2821.JPG" alt="Paige looking to her left" width="200"/>
+	<img src="IMG_2821.JPG" alt="Paige looking to her left" width="500"/>
 
 </p>
 
