@@ -1,6 +1,6 @@
 
 ---
-layout: articles
+layout: article
 title: Projects
 ---
 
