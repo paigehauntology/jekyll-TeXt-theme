@@ -1,15 +1,14 @@
 ---
 layout: article
-title: Page - Sidebar
+title: Welcome!
 sidebar:
   nav: layouts
 ---
 
 
 
-# Header 1
-## Header 2
-### Header 3
+# Hi there! I am a data science and sociology undergraduate @ NYU
+
 
 - Bulleted
 - List
