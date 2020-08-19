@@ -23,7 +23,7 @@
       # @end locale config
     url: /about.html
 
-- titles:
+      - titles:
       # @start locale config
       en      : &EN       Projects
       # @end locale config
