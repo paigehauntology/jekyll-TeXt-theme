@@ -1,13 +1,11 @@
 ---
 layout: article
 title: Welcome!
-sidebar:
-  nav: layouts
 ---
 
 
 
-# Hi there! I am a data science and sociology undergraduate @ NYU
+## Hi there! I am a data science and sociology undergraduate @ NYU
 
 
 - Bulleted
