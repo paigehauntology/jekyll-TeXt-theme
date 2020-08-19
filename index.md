@@ -1,9 +1,10 @@
 ---
 layout: article
-title: Welcome!
+title: Home
 ---
 
 
+> Disabled People are the original lifehackers. Our lives are spent cultivating intuitive creaitivity, because we navigate a world that isn't built for our bodies. - Liz Jackson
 
 ## Hi there! I am a data science and sociology undergraduate @ NYU
 
