@@ -3,7 +3,7 @@ layout: article
 title: Welcome 
 ---
 
-<a id=“theme-toggle” onclick=“modeSwitcher()”></a>
+<button id="theme-toggle" onclick="modeSwitcher()"></button>
 
 ### Hi there! I am a third-year undergradauate student @ NYU studying data science and sociology.
 
