@@ -1,10 +1,10 @@
-
 ---
 layout: article
 title: About
 sidebar:
   nav: layouts
 ---
+
 
 <p align="left">
 	
