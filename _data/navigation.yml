@@ -73,5 +73,5 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /blog.md
+    url: /blog.html
 
