@@ -10,5 +10,4 @@ title: About Me
 </p>
 
 
-![Image](IMG_2821.JPG){:width="400px" height="400px"}{:.border.rounded}
 
