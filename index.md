@@ -3,6 +3,8 @@ layout: article
 title: Welcome 
 ---
 
+<a id=“theme-toggle” onclick=“modeSwitcher()”></a>
+
 ### Hi there! I am a third-year undergradauate student @ NYU studying data science and sociology.
 
 My passions lie in human-computer interaction, critical disability studies and digital accessibility. I am currently pursuing independent research on the effects of digital health tracking as a form of surveillance against disabled populations. I am also a disabled cyborg, amateur biohacker, and avid bookworm. Check out what I am currently reading [here.](https://www.goodreads.com/user/show/46515398-paige-h)
