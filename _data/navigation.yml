@@ -50,7 +50,7 @@ header:
       # @end locale config
     url: /projects.html
 
- - titles:
+  - titles:
       # @start locale config
       en      : &EN       Blog
       en-GB   : *EN
