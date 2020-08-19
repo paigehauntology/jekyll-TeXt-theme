@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Welcome
+title: Welcome 
 ---
 
 ### Hi there! I am a third-year undergradauate student @ NYU studying data science and sociology.
@@ -11,7 +11,7 @@ My passions lie in human-computer interaction, critical disability studies and d
 >
 > --- Liz Jackson 
 
-## You can read more about my on my "About" page or contact me below!
+### You can read more about my on my "About" page or contact me below!
 
 - Bulleted
 - List
