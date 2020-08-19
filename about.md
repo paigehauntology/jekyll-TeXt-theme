@@ -3,6 +3,8 @@ layout: article
 title: About Me
 ---
 
+#### Hello again, thanks for wanting to know more about me. 
+
 <img src="IMG_2821.JPG" alt="Paige looking to her left" width="600"/>
 
 
@@ -12,8 +14,6 @@ title: About Me
 
 </p>
 
-### Thanks for wanting to know more about me. 
 
-Hi, there! 
 
 
