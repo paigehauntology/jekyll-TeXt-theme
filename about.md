@@ -1,6 +1,6 @@
 ---
 layout: article
-title: About Me
+title: 
 ---
 #### Hello again, thanks for wanting to know more about me. 
 
