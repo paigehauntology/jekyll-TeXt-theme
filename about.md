@@ -1,10 +1,9 @@
 ---
 layout: article
 title: About
-sidebar:
-  nav: layouts
 ---
 
+## Welcome to my about me!
 
 <p align="left">
 	
@@ -13,4 +12,5 @@ sidebar:
 </p>
 
 Hi, there! 
+
 
