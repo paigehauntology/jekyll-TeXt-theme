@@ -48,4 +48,4 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /projects.md
+    url: /projects.html
