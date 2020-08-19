@@ -3,7 +3,7 @@ layout: article
 title: Welcome 
 ---
 
-[Dark mode] <button id="theme-toggle" onclick="modeSwitcher()"></button>
+[Dark mode] (<button id="theme-toggle" onclick="modeSwitcher()"></button>)
 
 ### Hi there! I am a third-year undergradauate student @ NYU studying data science and sociology.
 
