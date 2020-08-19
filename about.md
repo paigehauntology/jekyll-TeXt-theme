@@ -1,6 +1,6 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN       About
-  
+title: Page - Sidebar
+sidebar:
+  nav: layouts
+---
