@@ -11,9 +11,6 @@ My passions lie in human-computer interaction, critical disability studies and d
 >
 > --- Liz Jackson 
 
-Just put more text here so it looks nice
-
-#### You can read more about me on my "About" page or contact me below!
-
-- Linkedin
-- Github
+You can read more about me on my "About" page or contact me below!
+- [Linkedin](https://www.linkedin.com/in/paige-hanoka-84186a141/)
+- [Github](https://github.com/paigehauntology)
