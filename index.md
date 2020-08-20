@@ -1,6 +1,5 @@
 ---
 layout: home
-# articles:
 title: Welcome 
 ---
 
