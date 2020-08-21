@@ -14,5 +14,5 @@ title:
 
 #### There is so much I want to tell you --- but I will just include some personal highlights. 
 
-
+I am a technologist by design: 
 
