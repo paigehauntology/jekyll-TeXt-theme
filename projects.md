@@ -1,31 +1,25 @@
 ---
 layout: article
 title:
-sidebar:
-  nav: docs-en
 ---
 
 <span style="font-family:Century Gothic; font-size:2em;">New York University (2018-2022)</span>
 <br /> 
----------------------------------------------------------------------------------
-
 ## B.A., Data Science and Sociology; GPA: 3.98
 
 **Awards**
 > * Lime Connect 2020 Fellow:
-		Competitive fellowship awarded to high-achieving students with disabilities by companies such as Google, Microsoft, Bloomberg, and Microsoft
-	* Presidential Honors Scholar:
-		An award given to the top 10% of freshman applicants and maintained with a minimum 3.5 GPA and completing your major's honors track
-	* Deans Undergraduate Research Fund (DURF) Grant:
-		$1,000 grant given to undergraduate students pursuing independent research projects
-	* NYU Global Debates Semi-Finalist
+	Competitive fellowship awarded to high-achieving students with disabilities by companies such as Google, Microsoft, Bloomberg, and Microsoft
+* Presidential Honors Scholar:
+	An award given to the top 10% of freshman applicants and maintained with a minimum 3.5 GPA and completing your major's honors track
+* Deans Undergraduate Research Fund (DURF) Grant:
+	$1,000 grant given to undergraduate students pursuing independent research projects
+* NYU Global Debates Semi-Finalist
  
  **Organizations**: 
  > * Disability Student Union, NYU Policy Debate, Peer Health Exchange
 
-<span style="font-family:Century Gothic; font-size:2em;">Technical Experience</span>
-<br />
------------------------------------------------------------------
+# Techincal Experience
 
 **Hardware Intern, Open Insulin Project**
               May 2020 – Present
@@ -39,20 +33,15 @@ sidebar:
 > * Created scrapers for public health information provided by state governments
 > * Worked with my supervisor to add accessibility features for data visualization
 
-<span style="font-family:Didot; font-size:2em;">Programming Languages</span>
-<br />
--------------------------------------------------------------------
+# Programming Languages
 
    > * Python, SQL, SPSS, HTML, CSS, Javascript 
 
-<span style="font-family:Didot; font-size:2em;">Tools/Platforms</span>
-<br />
--------------------------------------------------------------------
-> * Photoshop, Microsoft suite, Jekyll, Tableau
+# Tools 
 
-<span style="font-family:Century Gothic; font-size:2em;">Non-Technical Experience</span>
-<br />
------------------------------------------------------------------
+> * Photoshop, Microsoft suite, Jekyll, Tableau, DIY Electronics
+
+# Non-technical Experience
 
 **Undergraduate Researcher, Department of Sociology**
 **New York University**   March 2020-Present
