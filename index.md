@@ -1,13 +1,11 @@
 ---
 layout: article
-title: Page - Article Header Overlay Background Image
+title: Hauntology-- A philosophical concept from Jacques Derrida. To be haunted in the present by lost futures.
 article_header:
   type: overlay
   theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: hauntology.png
+  background_color: '#202B20'
+  background_image: false
 ---
 
 ### Hi there! I am a third-year undergradauate student @ NYU studying data science and sociology.
