@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Hauntology-- A philosophical concept from Jacques Derrida. To be haunted in the present by lost futures.
+title: Hauntology--- To be haunted in the present by lost futures.
 article_header:
   type: overlay
   theme: dark
