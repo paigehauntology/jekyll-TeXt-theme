@@ -3,7 +3,6 @@ layout: articles
 title: Here are some projects that I am proud of!
 ---
 
-
 #### Open-Source Bioreactor | [Open Insulin](https://openinsulin.org)
 ---
 <p align="center">
